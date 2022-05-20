@@ -11,7 +11,7 @@ The printf project is a collaboration between Mary Muoka and Edwin Kihara, actua
 
 ------------------------------------------------------------------
 
-| Edwin Kihara | Handle Link |
+| Mary Muoka | Handle Link |
 | -------- | ----------- |
 | LinkedIn |  |
 | Twitter |  |
